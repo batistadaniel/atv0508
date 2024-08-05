@@ -1,0 +1,7 @@
+#likes {
+    display: flex;
+}
+
+#deslike {
+    transform: rotate(180deg);
+}
